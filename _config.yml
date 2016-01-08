@@ -1,0 +1,28 @@
+name: Meanderings
+favicon: null
+layout_spectrum: 0.2808572275098413
+typography_spectrum: 0.1611202599015087
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.17937783524394035
+  lightness: 0.6193116782233119
+  saturation: 0.6737093089614064
+  rhythmicContrast: 0.8034145296551287
+purpose: []
